@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Siji
-- I am a Project Manager at Cummins with 8 years of experience in data management, integration, and technical program management where I have focused on building scalable solutions to drive efficiency in global supply chains and after market operations. With a background in Industrial engineering from the University of Houston, I’ve progressed from hands-on data engineering roles to leading cross-functional projects, earning certifications like PMP, AWS SysOps Administrator associate, AWS Solutions Architect Associate, and Six Sigma Green Belt along the way.
+- I am a Technical Program Manager at Cummins with 8 years of experience in data management, integration, and technical program management where I have focused on building scalable solutions to drive efficiency in global supply chains and after market operations. With a background in Industrial engineering from the University of Houston, I’ve progressed from hands-on data engineering roles to leading cross-functional projects, earning certifications like PMP, AWS SysOps Administrator associate, AWS Solutions Architect Associate, and Six Sigma Green Belt along the way.
 - - 👀 I’m interested in Technical Program & Program Management
 - 🌱 I’m currently learning more about AI technology and building businesses(passion projects)
+- I'm also obsessed with Finance. I enjoy diving deep into the financial markets and have done pretty well 
 - 💞️ I’m looking to collaborate on: Building new exciting projects
 - 📫 How to reach me: https://www.linkedin.com/in/sijiakinde/
 
